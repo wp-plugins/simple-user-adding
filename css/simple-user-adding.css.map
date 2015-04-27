@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";;;;;;;AAQA,MAAO;EACN,KAAK,EAAE,IAAI;;AAGZ,eAAgB;EACf,KAAK,EAAE,IAAI;EACX,WAAW,EAAE,IAAI;;AAGlB;UACW;EACV,KAAK,EAAE,IAAI;;AAGZ,WAAY;EACX,YAAY,EAAE,IAAI;;AAGnB,iBAAkB;EACjB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK",
+"sources": ["src/simple-user-adding.scss"],
+"names": [],
+"file": "simple-user-adding.css"
+}

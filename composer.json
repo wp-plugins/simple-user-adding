@@ -1,0 +1,17 @@
+{
+  "name": "wearerequired/simple-user-adding",
+  "description": "This plugin makes adding users to your WordPress site easier than ever before.",
+  "version": "1.0.0",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0+",
+  "authors": [
+	{
+	  "name": "required+",
+	  "email": "support@required.ch",
+	  "homepage": "http://required.ch",
+	  "role": "Developer"
+	}
+  ],
+  "require": {
+  }
+}
