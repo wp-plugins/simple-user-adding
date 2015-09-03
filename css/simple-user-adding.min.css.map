@@ -1,1 +1,1 @@
-{"version":3,"sources":["css/simple-user-adding.css"],"names":[],"mappings":"AAOA,OACE,MAAO,KAET,gBACE,MAAO,KACP,YAAa,KAEf,YACA,WACE,MAAO,KAET,YACE,aAAc,KAEhB,kBACE,MAAO,KACP,OAAQ"}
+{"version":3,"sources":["src/simple-user-adding.scss"],"names":[],"mappings":"AAQA,OACC,UAAW,CAAA,AAGZ,gBACC,WAAW,AACX,gBAAiB,CAAA,AAGlB,uBAEC,UAAW,CAAA,AAGZ,YACC,iBAAkB,CAAA,AAGnB,kBACC,WAAW,AACX,WAAa,CAAA","file":"simple-user-adding.min.css","sourcesContent":[null]}
